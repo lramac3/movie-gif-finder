@@ -6,8 +6,8 @@ $(document).ready(function () {
   var movies = [
     'Avengers: Infinity War',
     'Incredibles 2',
-    'Ant-Man and the Wasp',
-    'Ready Player One',
+    'Creed',
+    'Fantastic Beasts',
     'Robocop'
   ]
 
