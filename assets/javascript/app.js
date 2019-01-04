@@ -4,7 +4,7 @@ $(document).ready(function () {
   /// ////////////////////////////////////////////////////////////////////////////////////
 
   var movies = [
-    'Black Panther',
+    'Avengers: Infinity War',
     "Jojo's Bizarre Adventure",
     'Aliens',
     'The Thing',
