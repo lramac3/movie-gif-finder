@@ -5,7 +5,7 @@ $(document).ready(function () {
 
   var movies = [
     'Avengers: Infinity War',
-    "Jojo's Bizarre Adventure",
+    'Incredibles 2',
     'Aliens',
     'The Thing',
     'Robocop'
