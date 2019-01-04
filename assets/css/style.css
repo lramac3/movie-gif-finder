@@ -1,0 +1,11 @@
+.bold-text {
+    font-weight: bold;
+}
+
+#print-here {
+    margin-top: 60px;
+}
+
+button {
+    margin: 2px;
+}
