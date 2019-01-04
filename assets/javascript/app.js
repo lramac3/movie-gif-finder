@@ -8,7 +8,7 @@ $(document).ready(function () {
     'Incredibles 2',
     'Creed',
     'Fantastic Beasts',
-    'Robocop'
+    'John Wick'
   ]
 
   // initialize a marker for what series is currently being shown - for the additional gifs portion
